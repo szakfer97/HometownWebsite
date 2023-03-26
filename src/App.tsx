@@ -1,9 +1,10 @@
 import "bootstrap/dist/css/bootstrap.min.css";
+import Homepage from "./components/Homepage/Homepage";
 
 export default function App() {
   return (
     <div>
-      <p className="h1">App</p>
+      <Homepage />
     </div>
   );
 }
