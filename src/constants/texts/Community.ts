@@ -1,0 +1,1 @@
+const COMMUNITY_TEXT = "Here we'll have community text";
