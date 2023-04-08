@@ -1,1 +1,1 @@
-const HISTORY_TEXT = "Here we'll have history text";
+export const HISTORY_TEXT = "Here we'll have history text";
