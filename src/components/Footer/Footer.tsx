@@ -2,9 +2,9 @@ export default function Footer() {
   return (
     <div>
       <div className="h1">
-        <span>Footer</span>
-        <span>Terms and Conditions</span>
-        <span>Contact us</span>
+        <div>Footer</div>
+        <div>Terms and Conditions</div>
+        <div>Contact us</div>
       </div>
       <div className="h1">
         <span>Satu Mare 2023</span>
