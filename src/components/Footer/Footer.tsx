@@ -2,7 +2,6 @@ export default function Footer() {
   return (
     <div>
       <div className="h1">
-        <div>Footer</div>
         <div>Terms and Conditions</div>
         <div>Contact us</div>
       </div>
