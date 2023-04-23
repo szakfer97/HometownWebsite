@@ -1,13 +1,30 @@
 export default function Footer() {
   return (
-    <div>
-      <div className="h1">
-        <div>Terms and Conditions</div>
-        <div>Contact us</div>
+    <footer className="bg-light text-center py-3">
+      <div className="container">
+        <p>
+          This website is about Satu Mare city, located in Romania. All rights
+          reserved.
+        </p>
+        <p>
+          Satu Mare 2023{" "}
+          <a
+            href="https://www.example.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Privacy Policy
+          </a>{" "}
+          |{" "}
+          <a
+            href="https://www.example.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Terms of Service
+          </a>
+        </p>
       </div>
-      <div className="h1">
-        <span>Satu Mare 2023</span>
-      </div>
-    </div>
+    </footer>
   );
 }
