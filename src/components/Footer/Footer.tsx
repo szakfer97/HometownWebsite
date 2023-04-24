@@ -7,7 +7,7 @@ export default function Footer() {
           reserved.
         </p>
         <p>
-          Satu Mare 2023{" "}
+          Satu Mare 2023 |{" "}
           <a
             href="https://www.example.com"
             target="_blank"
@@ -22,6 +22,14 @@ export default function Footer() {
             rel="noopener noreferrer"
           >
             Terms of Service
+          </a>{" "}
+          |{" "}
+          <a
+            href="https://www.example.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Contact us
           </a>
         </p>
       </div>
