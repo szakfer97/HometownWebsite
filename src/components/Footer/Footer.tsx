@@ -25,7 +25,7 @@ export default function Footer() {
           </a>{" "}
           |{" "}
           <a
-            href="https://www.example.com"
+            href="mailto:szakacsi.ferencadam@student.uoradea.ro"
             target="_blank"
             rel="noopener noreferrer"
           >
